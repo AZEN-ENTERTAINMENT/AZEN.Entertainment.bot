@@ -1,0 +1,16 @@
+2025-03-14 07:04:42,173 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:04:42,173 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_application_info - DETAILS:From user 7475628490
+2025-03-14 07:04:42,380 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:22:41,828 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:22:41,829 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_text_message - DETAILS:From user 7475628490
+2025-03-14 07:35:04,145 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:35:04,145 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_text_message - DETAILS:From user 7475628490
+2025-03-14 07:37:02,561 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:8013392812 TO_CHAT:-1002635622836
+2025-03-14 07:37:02,561 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_text_message - DETAILS:From user 8013392812
+2025-03-14 07:45:51,795 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:45:51,796 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_application_info - DETAILS:From user 7475628490
+2025-03-14 07:45:51,972 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:46:35,388 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:46:35,388 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_text_message - DETAILS:From user 7475628490
+2025-03-14 07:47:26,643 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:8013392812 TO_CHAT:-1002635622836
+2025-03-14 07:47:26,643 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_text_message - DETAILS:From user 8013392812

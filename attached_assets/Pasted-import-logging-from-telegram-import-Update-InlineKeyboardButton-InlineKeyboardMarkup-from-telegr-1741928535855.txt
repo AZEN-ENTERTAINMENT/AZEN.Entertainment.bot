@@ -1,0 +1,237 @@
+import logging
+from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram.ext import Updater, CommandHandler, CallbackContext, CallbackQueryHandler, MessageHandler, Filters
+
+# تنظیمات اولیه لاگ
+logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+# تابع نمایش منوی اصلی
+def show_main_menu(update: Update, context: CallbackContext):
+    text = "لطفاً یکی از گزینه‌های زیر را انتخاب کنید:"
+    keyboard = [
+        [InlineKeyboardButton("آثار دوبله‌شده", callback_data='dubbed_works')],
+        [InlineKeyboardButton("استعدادیابی", callback_data='talent')],
+        [InlineKeyboardButton("همکاری با ما", callback_data='collaboration')],
+        [InlineKeyboardButton("پیگیری سفارش", callback_data='order_tracking')],
+        [InlineKeyboardButton("پشتیبانی", callback_data='support')],
+        [InlineKeyboardButton("امکانات ویژه", callback_data='features')]
+    ]
+    reply_markup = InlineKeyboardMarkup(keyboard)
+    if update.callback_query:
+        update.callback_query.edit_message_text(text=text, reply_markup=reply_markup)
+    else:
+        update.message.reply_text(text, reply_markup=reply_markup)
+
+# دستور /start
+def start(update: Update, context: CallbackContext):
+    show_main_menu(update, context)
+
+# هندلر دکمه‌های منو (Callback)
+def button_handler(update: Update, context: CallbackContext):
+    query = update.callback_query
+    query.answer()  # حذف حالت لودینگ در تلگرام
+    data = query.data
+
+    # بازگشت به منوی اصلی
+    if data == 'main_menu':
+        show_main_menu(update, context)
+
+    # بخش آثار دوبله‌شده
+    elif data == 'dubbed_works':
+        text = "لطفاً ژانر مورد نظر خود را انتخاب کنید:"
+        keyboard = [
+            [InlineKeyboardButton("کمدی", callback_data='genre_comedy'),
+             InlineKeyboardButton("اکشن", callback_data='genre_action')],
+            [InlineKeyboardButton("درام", callback_data='genre_drama')],
+            [InlineKeyboardButton("بازگشت به منو", callback_data='main_menu')]
+        ]
+        reply_markup = InlineKeyboardMarkup(keyboard)
+        query.edit_message_text(text=text, reply_markup=reply_markup)
+
+    elif data.startswith('genre_'):
+        genre = data.split('_')[1]
+        text = f"شما ژانر {genre} را انتخاب کرده‌اید.\nدر حال ارسال تیزر نمونه..."
+        query.edit_message_text(text=text)
+        # در اینجا می‌توانید کد ارسال ویدیو یا تیزر مربوطه را اضافه کنید.
+        # مثال:
+        # context.bot.send_video(chat_id=query.message.chat_id, video=open(f'trailers/{genre}.mp4', 'rb'))
+    
+    # بخش استعدادیابی
+    elif data == 'talent':
+        text = "بخش استعدادیابی:\nلطفاً یکی از گزینه‌های زیر را انتخاب کنید:"
+        keyboard = [
+            [InlineKeyboardButton("ارسال نمونه برای استعدادیابی", callback_data='submit_talent')],
+            [InlineKeyboardButton("آزمون صدا", callback_data='voice_test')],
+            [InlineKeyboardButton("بازگشت به منو", callback_data='main_menu')]
+        ]
+        reply_markup = InlineKeyboardMarkup(keyboard)
+        query.edit_message_text(text=text, reply_markup=reply_markup)
+
+    elif data == 'submit_talent':
+        context.user_data['mode'] = 'talent_search'
+        query.edit_message_text("لطفاً نمونه صدای خود را ارسال کنید تا سیستم تحلیل اولیه انجام شود.")
+
+    elif data == 'voice_test':
+        context.user_data['mode'] = 'voice_test'
+        test_text = "لطفاً جمله زیر را با صدای خود دوبله کنید:\n'این یک تست صدای خودکار است.'"
+        query.edit_message_text(test_text)
+
+    # بخش همکاری با ما
+    elif data == 'collaboration':
+        context.user_data['mode'] = 'collaboration'
+        query.edit_message_text("برای همکاری با ما، لطفاً اطلاعات تماس و جزئیات پروژه خود را ارسال کنید.\n(متن یا فایل خود را ارسال نمایید)")
+    
+    # بخش پیگیری سفارش
+    elif data == 'order_tracking':
+        context.user_data['mode'] = 'order_tracking'
+        query.edit_message_text("لطفاً کد پیگیری سفارش خود را ارسال کنید.")
+    
+    # بخش پشتیبانی
+    elif data == 'support':
+        text = "بخش پشتیبانی:\nلطفاً یکی از گزینه‌های زیر را انتخاب کنید:"
+        keyboard = [
+            [InlineKeyboardButton("سوالات متداول", callback_data='faq'),
+             InlineKeyboardButton("گزارش مشکل", callback_data='report_issue')],
+            [InlineKeyboardButton("ارسال کامنت صوتی", callback_data='voice_comment')],
+            [InlineKeyboardButton("بازگشت به منو", callback_data='main_menu')]
+        ]
+        reply_markup = InlineKeyboardMarkup(keyboard)
+        query.edit_message_text(text=text, reply_markup=reply_markup)
+
+    # بخش امکانات ویژه
+    elif data == 'features':
+        text = "بخش امکانات ویژه:\nلطفاً یکی از گزینه‌های زیر را انتخاب کنید:"
+        keyboard = [
+            [InlineKeyboardButton("کاتالوگ چندزبانه", callback_data='multilingual_catalog')],
+            [InlineKeyboardButton("رأی‌گیری گوینده", callback_data='vote_actor')],
+            [InlineKeyboardButton("پلتفرم‌های پخش", callback_data='broadcast_platforms')],
+            [InlineKeyboardButton("اطلاع رسانی آثار جدید", callback_data='announcement')],
+            [InlineKeyboardButton("کدهای تخفیف", callback_data='discount_codes')],
+            [InlineKeyboardButton("برنامه معرفی دوستان", callback_data='referral_program')],
+            [InlineKeyboardButton("بازگشت به منو", callback_data='main_menu')]
+        ]
+        reply_markup = InlineKeyboardMarkup(keyboard)
+        query.edit_message_text(text=text, reply_markup=reply_markup)
+
+    # امکانات ویژه - کاتالوگ چندزبانه
+    elif data == 'multilingual_catalog':
+        text = "کاتالوگ چندزبانه آثار:\n1. فارسی\n2. انگلیسی\n3. عربی\n\nبرای مشاهده جزئیات هر زبان، دستور مربوطه ارسال خواهد شد."
+        query.edit_message_text(text=text)
+    
+    # امکانات ویژه - رأی‌گیری گوینده
+    elif data == 'vote_actor':
+        text = "لطفاً گوینده مورد نظر خود را انتخاب کنید:"
+        keyboard = [
+            [InlineKeyboardButton("گوینده الف", callback_data='vote_actor_A'),
+             InlineKeyboardButton("گوینده ب", callback_data='vote_actor_B')],
+            [InlineKeyboardButton("گوینده ج", callback_data='vote_actor_C')],
+            [InlineKeyboardButton("بازگشت به منو", callback_data='main_menu')]
+        ]
+        reply_markup = InlineKeyboardMarkup(keyboard)
+        query.edit_message_text(text=text, reply_markup=reply_markup)
+    
+    # ثبت رأی گوینده (نمونه ساده)
+    elif data.startswith('vote_actor_'):
+        actor = data.split('_')[-1]
+        text = f"رأی شما برای گوینده {actor} ثبت شد. از مشارکت شما سپاسگزاریم."
+        query.edit_message_text(text=text)
+    
+    # امکانات ویژه - پلتفرم‌های پخش
+    elif data == 'broadcast_platforms':
+        text = ("لیست پلتفرم‌های پخش:\n"
+                "- نتفلیکس: https://www.netflix.com\n"
+                "- آپارات: https://www.aparat.com\n"
+                "- فیلمنت: https://www.filimo.com")
+        query.edit_message_text(text=text)
+    
+    # امکانات ویژه - اطلاع‌رسانی آثار جدید
+    elif data == 'announcement':
+        text = ("اطلاعیه: فیلم جدید با دوبله فارسی هم‌اکنون در سایت منتشر شده است!\n"
+                "برای مشاهده، به لینک زیر مراجعه کنید:\nhttps://example.com/new_release")
+        query.edit_message_text(text=text)
+    
+    # امکانات ویژه - کدهای تخفیف
+    elif data == 'discount_codes':
+        text = "کد تخفیف ویژه: برای اولین سفارش دوبله از کد 'DUB20' استفاده کنید و ۲۰٪ تخفیف دریافت نمایید."
+        query.edit_message_text(text=text)
+    
+    # امکانات ویژه - برنامه معرفی دوستان
+    elif data == 'referral_program':
+        text = ("با معرفی دوستان به ربات، امتیاز جمع کنید و جوایز ویژه دریافت نمایید.\n"
+                "برای اطلاعات بیشتر، به صفحه وب مراجعه کنید:\nhttps://example.com/referral")
+        query.edit_message_text(text=text)
+    
+    # پشتیبانی - سوالات متداول
+    elif data == 'faq':
+        text = ("سوالات متداول:\n"
+                "1. چگونه فایل دوبله‌شده را دانلود کنم؟\n"
+                "2. فرمت‌های قابل پذیرش چیست؟\n"
+                "برای اطلاعات بیشتر به سایت ما مراجعه کنید.")
+        query.edit_message_text(text=text)
+    
+    # پشتیبانی - گزارش مشکل
+    elif data == 'report_issue':
+        context.user_data['mode'] = 'report_issue'
+        query.edit_message_text("لطفاً مشکل فنی خود را به صورت متنی ارسال کنید تا تیم پشتیبانی بررسی کند.")
+    
+    # پشتیبانی - کامنت صوتی
+    elif data == 'voice_comment':
+        context.user_data['mode'] = 'voice_comment'
+        query.edit_message_text("لطفاً کامنت صوتی خود را ارسال کنید. تیم ما به زودی پاسخ خواهد داد.")
+    
+    else:
+        query.edit_message_text("گزینه انتخاب شده نامعتبر است. لطفاً مجدداً تلاش کنید.")
+
+# هندلر پیام‌های متنی و صوتی
+def message_handler(update: Update, context: CallbackContext):
+    mode = context.user_data.get('mode', None)
+
+    if update.message.voice:
+        # دریافت پیام صوتی
+        if mode in ['talent_search', 'voice_test']:
+            # شبیه‌سازی تحلیل صوتی (در دنیای واقعی می‌توان از کتابخانه‌های پردازش صوتی استفاده کرد)
+            if mode == 'talent_search':
+                response = ("نمونه صوتی شما دریافت و تحلیل شد.\n"
+                            "صدای شما پتانسیل مناسبی برای دوبله دارد. تیم ما در اسرع وقت با شما تماس خواهد گرفت.")
+            elif mode == 'voice_test':
+                response = "آزمون صدا انجام شد. صدای شما برای پروژه‌های ما مناسب است."
+            update.message.reply_text(response)
+            context.user_data['mode'] = None  # ریست کردن حالت پس از تحلیل
+        elif mode == 'voice_comment':
+            update.message.reply_text("کامنت صوتی شما دریافت شد. تیم پشتیبانی به زودی پاسخ خواهد داد.")
+            context.user_data['mode'] = None
+        else:
+            update.message.reply_text("پیام صوتی دریافت شد.")
+    elif update.message.text:
+        user_text = update.message.text.strip()
+        # در حالت پیگیری سفارش (فرض بر این است کد سفارش شامل اعداد است)
+        if mode == 'order_tracking' and user_text.isdigit():
+            update.message.reply_text(f"وضعیت سفارش با کد {user_text}: در حال پردازش...")
+            context.user_data['mode'] = None
+        # در حالت همکاری یا گزارش مشکل
+        elif mode in ['collaboration', 'report_issue']:
+            update.message.reply_text("اطلاعات شما دریافت شد. تیم مربوطه در اسرع وقت با شما تماس خواهد گرفت.")
+            context.user_data['mode'] = None
+        else:
+            update.message.reply_text("پیام شما دریافت شد. در صورت نیاز، تیم پشتیبانی به زودی پاسخ خواهد داد.")
+    else:
+        update.message.reply_text("لطفاً پیام مناسبی ارسال کنید.")
+
+def main():
+    # توکن ربات شما در اینجا جایگزین شده است
+    token = "7732694785:AAEueurx04476fzD_6yBYkiPBz24tP8Vhbk"
+    updater = Updater(token, use_context=True)
+    dp = updater.dispatcher
+
+    # ثبت هندلرها
+    dp.add_handler(CommandHandler("start", start))
+    dp.add_handler(CallbackQueryHandler(button_handler))
+    dp.add_handler(MessageHandler(Filters.text | Filters.voice, message_handler))
+
+    # شروع polling (مناسب برای سرورهای رایگان مانند Replit یا Railway)
+    updater.start_polling()
+    updater.idle()
+
+if __name__ == '__main__':
+    main()

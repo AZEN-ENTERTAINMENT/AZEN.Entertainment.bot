@@ -1,0 +1,1349 @@
+2025-03-14 06:57:36,028 - [INFO] - azen_bot - main:52 - Starting bot...
+2025-03-14 06:57:36,630 - [INFO] - azen_bot - main:56 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 06:59:47,051 - [INFO] - azen_bot - main:52 - Starting bot...
+2025-03-14 06:59:47,659 - [INFO] - azen_bot - main:56 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:00:09,062 - [INFO] - azen_bot - main:52 - Starting bot...
+2025-03-14 07:00:09,656 - [INFO] - azen_bot - main:56 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:02:51,523 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-03-14 07:02:51,523 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-03-14 07:03:09,848 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration
+2025-03-14 07:03:09,849 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration
+2025-03-14 07:03:27,957 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration_next
+2025-03-14 07:03:27,958 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration_next
+2025-03-14 07:04:41,997 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: received_voice_collaboration_voice_test
+2025-03-14 07:04:41,997 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:received_voice_collaboration_voice_test
+2025-03-14 07:04:41,998 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: collaboration_voice_submission
+2025-03-14 07:04:41,998 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:collaboration_voice_submission - DETAILS:User ID: 7475628490, Username: @AZEN_Entertainment
+2025-03-14 07:04:42,173 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:04:42,173 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_application_info - DETAILS:From user 7475628490
+2025-03-14 07:04:42,380 - [INFO] - azen_bot - message_handler:471 - Voice sample from 7475628490 forwarded to admin group -1002635622836
+2025-03-14 07:04:42,380 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:10:24,842 - [INFO] - azen_bot - main:52 - Starting bot...
+2025-03-14 07:10:25,438 - [INFO] - azen_bot - main:56 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:13:07,066 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-03-14 07:13:07,067 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-03-14 07:16:50,393 - [INFO] - azen_bot - main:52 - Starting bot...
+2025-03-14 07:16:50,995 - [INFO] - azen_bot - main:56 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:20:30,256 - [INFO] - azen_bot - main:64 - Starting bot...
+2025-03-14 07:20:30,552 - [INFO] - azen_bot - main:68 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:22:10,230 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-03-14 07:22:10,230 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-03-14 07:22:20,567 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: help_command
+2025-03-14 07:22:20,567 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:help_command
+2025-03-14 07:22:31,861 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: contact_command
+2025-03-14 07:22:31,861 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:contact_command
+2025-03-14 07:22:41,652 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: received_text_contact_message
+2025-03-14 07:22:41,652 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:received_text_contact_message
+2025-03-14 07:22:41,653 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: contact_message_submission
+2025-03-14 07:22:41,653 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:contact_message_submission - DETAILS:User ID: 7475628490, Username: @AZEN_Entertainment, Message: سلام...
+2025-03-14 07:22:41,828 - [INFO] - azen_bot - message_handler:781 - Text message from 7475628490 forwarded to admin group -1002635622836
+2025-03-14 07:22:41,828 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:22:41,829 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_text_message - DETAILS:From user 7475628490
+2025-03-14 07:22:54,460 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: mylink_command
+2025-03-14 07:22:54,460 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:mylink_command
+2025-03-14 07:26:47,698 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration
+2025-03-14 07:26:47,698 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration
+2025-03-14 07:27:08,883 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 07:27:09,180 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:27:59,738 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 07:28:00,032 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:28:48,477 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-03-14 07:28:48,478 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-03-14 07:29:36,262 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 07:29:36,560 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:30:02,379 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 07:30:02,678 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:31:48,855 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-03-14 07:31:48,855 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-03-14 07:31:51,329 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration
+2025-03-14 07:31:51,329 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration
+2025-03-14 07:32:25,301 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration_next
+2025-03-14 07:32:25,302 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration_next
+2025-03-14 07:32:36,313 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 07:32:36,610 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:32:58,002 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration
+2025-03-14 07:32:58,002 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration
+2025-03-14 07:33:32,353 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-03-14 07:33:32,353 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-03-14 07:33:47,841 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_contact_us
+2025-03-14 07:33:47,841 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_contact_us
+2025-03-14 07:35:03,961 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: received_text_contact_message
+2025-03-14 07:35:03,962 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:received_text_contact_message
+2025-03-14 07:35:03,962 - [INFO] - azen_bot - log_user_action:116 - User 7475628490 (@AZEN_Entertainment) performed action: contact_message_submission
+2025-03-14 07:35:03,962 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:contact_message_submission - DETAILS:User ID: 7475628490, Username: @AZEN_Entertainment, Message: 🤣...
+2025-03-14 07:35:04,145 - [INFO] - azen_bot - message_handler:777 - Text message from 7475628490 forwarded to admin group -1002635622836
+2025-03-14 07:35:04,145 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:35:04,145 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_text_message - DETAILS:From user 7475628490
+2025-03-14 07:35:18,535 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 07:35:18,828 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:35:28,380 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 07:35:28,682 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:36:53,104 - [INFO] - azen_bot - log_user_action:116 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 07:36:53,104 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-14 07:36:57,862 - [INFO] - azen_bot - log_user_action:116 - User 8013392812 (@no_username) performed action: button_click_contact_us
+2025-03-14 07:36:57,862 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:button_click_contact_us
+2025-03-14 07:37:02,361 - [INFO] - azen_bot - log_user_action:116 - User 8013392812 (@no_username) performed action: received_text_contact_message
+2025-03-14 07:37:02,361 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:received_text_contact_message
+2025-03-14 07:37:02,361 - [INFO] - azen_bot - log_user_action:116 - User 8013392812 (@no_username) performed action: contact_message_submission
+2025-03-14 07:37:02,362 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:contact_message_submission - DETAILS:User ID: 8013392812, Username: @بدون یوزرنیم, Message: 🤣...
+2025-03-14 07:37:02,561 - [INFO] - azen_bot - message_handler:772 - Text message from 8013392812 forwarded to admin group -1002635622836
+2025-03-14 07:37:02,561 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:8013392812 TO_CHAT:-1002635622836
+2025-03-14 07:37:02,561 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_text_message - DETAILS:From user 8013392812
+2025-03-14 07:37:38,448 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 07:37:38,739 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:39:02,458 - [INFO] - azen_bot - log_user_action:116 - User 8013392812 (@no_username) performed action: received_text_None
+2025-03-14 07:39:02,458 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:received_text_None
+2025-03-14 07:40:20,967 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 07:40:21,266 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:40:23,644 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: received_text_None
+2025-03-14 07:40:23,644 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:received_text_None
+2025-03-14 07:40:53,623 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: received_text_None
+2025-03-14 07:40:53,623 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:received_text_None
+2025-03-14 07:41:59,200 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 07:41:59,511 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:42:51,507 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 07:42:51,805 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 07:45:15,497 - [INFO] - azen_bot - start:57 - Bot added to group Group with ID -1002635622836
+2025-03-14 07:45:22,187 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: help_command
+2025-03-14 07:45:22,187 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:help_command
+2025-03-14 07:45:31,350 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-03-14 07:45:31,350 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-03-14 07:45:39,643 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration
+2025-03-14 07:45:39,643 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration
+2025-03-14 07:45:44,886 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration_next
+2025-03-14 07:45:44,886 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration_next
+2025-03-14 07:45:51,621 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: received_voice_collaboration_voice_test
+2025-03-14 07:45:51,621 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:received_voice_collaboration_voice_test
+2025-03-14 07:45:51,621 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: collaboration_voice_submission
+2025-03-14 07:45:51,621 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:collaboration_voice_submission - DETAILS:User ID: 7475628490, Username: @AZEN_Entertainment
+2025-03-14 07:45:51,795 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:45:51,796 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_application_info - DETAILS:From user 7475628490
+2025-03-14 07:45:51,971 - [INFO] - azen_bot - message_handler:491 - Voice sample from 7475628490 forwarded to admin group -1002635622836
+2025-03-14 07:45:51,972 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:46:01,406 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_main_menu
+2025-03-14 07:46:01,406 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_main_menu
+2025-03-14 07:46:01,577 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: main_menu_view
+2025-03-14 07:46:01,578 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:main_menu_view
+2025-03-14 07:46:05,642 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: mylink_command
+2025-03-14 07:46:05,642 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:mylink_command
+2025-03-14 07:46:08,162 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: help_command
+2025-03-14 07:46:08,162 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:help_command
+2025-03-14 07:46:18,266 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-03-14 07:46:18,266 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-03-14 07:46:19,938 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration
+2025-03-14 07:46:19,938 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration
+2025-03-14 07:46:21,313 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration_next
+2025-03-14 07:46:21,313 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration_next
+2025-03-14 07:46:22,651 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration
+2025-03-14 07:46:22,652 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration
+2025-03-14 07:46:25,493 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-03-14 07:46:25,493 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-03-14 07:46:27,121 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_contact_us
+2025-03-14 07:46:27,121 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_contact_us
+2025-03-14 07:46:35,177 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: received_text_contact_message
+2025-03-14 07:46:35,177 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:received_text_contact_message
+2025-03-14 07:46:35,177 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: contact_message_submission
+2025-03-14 07:46:35,177 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:contact_message_submission - DETAILS:User ID: 7475628490, Username: @AZEN_Entertainment, Message: سلام...
+2025-03-14 07:46:35,388 - [INFO] - azen_bot - message_handler:801 - Text message from 7475628490 forwarded to admin group -1002635622836
+2025-03-14 07:46:35,388 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:7475628490 TO_CHAT:-1002635622836
+2025-03-14 07:46:35,388 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_text_message - DETAILS:From user 7475628490
+2025-03-14 07:46:59,485 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: received_text_None
+2025-03-14 07:46:59,486 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:received_text_None
+2025-03-14 07:47:11,824 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: button_click_main_menu
+2025-03-14 07:47:11,824 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:button_click_main_menu
+2025-03-14 07:47:12,007 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: main_menu_view
+2025-03-14 07:47:12,008 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:main_menu_view
+2025-03-14 07:47:14,734 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 07:47:14,734 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-14 07:47:16,248 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: button_click_collaboration
+2025-03-14 07:47:16,248 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:button_click_collaboration
+2025-03-14 07:47:18,579 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: button_click_collaboration_next
+2025-03-14 07:47:18,579 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:button_click_collaboration_next
+2025-03-14 07:47:20,760 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 07:47:20,761 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-14 07:47:22,188 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: button_click_contact_us
+2025-03-14 07:47:22,188 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:button_click_contact_us
+2025-03-14 07:47:26,410 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: received_text_contact_message
+2025-03-14 07:47:26,411 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:received_text_contact_message
+2025-03-14 07:47:26,411 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: contact_message_submission
+2025-03-14 07:47:26,411 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:contact_message_submission - DETAILS:User ID: 8013392812, Username: @بدون یوزرنیم, Message: سلام...
+2025-03-14 07:47:26,643 - [INFO] - azen_bot - message_handler:801 - Text message from 8013392812 forwarded to admin group -1002635622836
+2025-03-14 07:47:26,643 - [INFO] - azen_bot.admin - log_message_forwarding:103 - Message forwarded successfully: FROM_USER:8013392812 TO_CHAT:-1002635622836
+2025-03-14 07:47:26,643 - [INFO] - azen_bot.admin - log_admin_action:98 - ADMIN:-1002635622836 - ACTION:received_text_message - DETAILS:From user 8013392812
+2025-03-14 22:45:21,836 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 22:45:22,136 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 22:45:22,828 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 22:45:22,831 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-14 22:45:23,059 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 22:45:23,059 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-14 22:45:23,263 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-03-14 22:45:23,263 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-03-14 22:45:23,448 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 22:45:23,449 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-14 22:45:23,648 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 22:45:23,648 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-14 22:45:23,909 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 22:45:23,910 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-14 22:45:24,162 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 22:45:24,162 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-14 22:45:24,463 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 22:45:24,463 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-14 22:45:24,722 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 22:45:24,723 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-14 22:46:14,583 - [INFO] - azen_bot - main:63 - Starting bot...
+2025-03-14 22:46:14,879 - [INFO] - azen_bot - main:67 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 22:46:35,876 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 22:46:35,877 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-14 22:46:49,742 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: button_click_collaboration
+2025-03-14 22:46:49,743 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:button_click_collaboration
+2025-03-14 22:47:05,955 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: button_click_collaboration_next
+2025-03-14 22:47:05,956 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:button_click_collaboration_next
+2025-03-14 22:49:39,694 - [INFO] - azen_bot - main:71 - Starting bot...
+2025-03-14 22:49:39,989 - [INFO] - azen_bot - main:75 - Bot is running. Press Ctrl-C to stop.
+2025-03-14 22:52:56,418 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-14 22:52:56,419 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-15 00:05:33,908 - [INFO] - azen_bot - main:71 - Starting bot...
+2025-03-15 00:05:34,215 - [INFO] - azen_bot - main:75 - Bot is running. Press Ctrl-C to stop.
+2025-03-15 00:05:34,870 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-15 00:05:34,870 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-15 00:06:00,525 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: button_click_collaboration
+2025-03-15 00:06:00,525 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:button_click_collaboration
+2025-03-15 00:06:25,039 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: button_click_collaboration_next
+2025-03-15 00:06:25,039 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:button_click_collaboration_next
+2025-03-15 00:06:42,617 - [INFO] - azen_bot - main:71 - Starting bot...
+2025-03-15 00:06:42,911 - [INFO] - azen_bot - main:75 - Bot is running. Press Ctrl-C to stop.
+2025-03-15 00:06:43,058 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: received_voice_None
+2025-03-15 00:06:43,058 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:received_voice_None
+2025-03-15 00:13:57,436 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: button_click_main_menu
+2025-03-15 00:13:57,436 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:button_click_main_menu
+2025-03-15 00:13:57,601 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: main_menu_view
+2025-03-15 00:13:57,601 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:main_menu_view
+2025-03-16 05:51:57,987 - [INFO] - azen_bot - main:71 - Starting bot...
+2025-03-16 05:51:58,285 - [INFO] - azen_bot - main:75 - Bot is running. Press Ctrl-C to stop.
+2025-03-16 05:51:58,945 - [INFO] - azen_bot - log_user_action:130 - User 8013392812 (@no_username) performed action: start_command
+2025-03-16 05:51:58,945 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:8013392812 - @no_username - ACTION:start_command
+2025-03-16 05:54:22,253 - [INFO] - azen_bot - main:71 - Starting bot...
+2025-03-16 05:54:22,559 - [INFO] - azen_bot - main:75 - Bot is running. Press Ctrl-C to stop.
+2025-03-16 05:55:58,276 - [INFO] - azen_bot - main:71 - Starting bot...
+2025-03-16 05:55:58,601 - [INFO] - azen_bot - main:75 - Bot is running. Press Ctrl-C to stop.
+2025-03-16 05:58:13,044 - [INFO] - azen_bot - main:71 - Starting bot...
+2025-03-16 05:58:13,344 - [INFO] - azen_bot - main:75 - Bot is running. Press Ctrl-C to stop.
+2025-04-05 07:19:24,245 - [INFO] - azen_bot - main:71 - Starting bot...
+2025-04-05 07:19:24,538 - [INFO] - azen_bot - main:75 - Bot is running. Press Ctrl-C to stop.
+2025-04-05 07:21:42,629 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-04-05 07:21:42,630 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-04-05 07:21:44,696 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration
+2025-04-05 07:21:44,696 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration
+2025-04-05 07:30:28,221 - [INFO] - azen_bot - main:71 - Starting bot...
+2025-04-05 07:30:28,540 - [INFO] - azen_bot - main:75 - Bot is running. Press Ctrl-C to stop.
+2025-04-05 07:30:29,283 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-04-05 07:30:29,283 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-04-05 07:30:29,526 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-04-05 07:30:29,527 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-04-05 07:30:29,730 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration_next
+2025-04-05 07:30:29,730 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration_next
+2025-04-05 07:30:39,622 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration
+2025-04-05 07:30:39,622 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration
+2025-04-05 07:30:41,218 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration_next
+2025-04-05 07:30:41,218 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration_next
+2025-04-05 07:33:05,385 - [INFO] - azen_bot - main:71 - Starting bot...
+2025-04-05 07:33:05,675 - [INFO] - azen_bot - main:75 - Bot is running. Press Ctrl-C to stop.
+2025-04-05 07:33:05,823 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:05,825 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:09,969 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:09,969 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:11,113 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:11,113 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:18,524 - [INFO] - azen_bot - main:71 - Starting bot...
+2025-04-05 07:33:18,815 - [INFO] - azen_bot - main:75 - Bot is running. Press Ctrl-C to stop.
+2025-04-05 07:33:18,963 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:18,964 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:24,366 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:24,366 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:25,510 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:25,510 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:29,030 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:29,031 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:33,674 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:33,674 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:38,883 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:38,883 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:44,275 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:44,276 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:52,016 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:52,016 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:56,159 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:33:56,159 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:34:07,694 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:34:07,695 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:34:11,842 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:34:11,842 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:34:29,136 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:34:29,137 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:34:54,911 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:34:54,912 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:34:59,054 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:34:59,055 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:35:37,641 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:35:37,642 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:35:41,784 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:35:41,784 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:36:11,929 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:36:11,930 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:36:16,073 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:36:16,073 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:36:46,217 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:36:46,217 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:36:50,360 - [ERROR] - azen_bot.errors - log_error:117 - ERROR_TYPE:GENERAL_ERROR - MESSAGE:Unexpected error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running - ADDITIONAL_INFO:Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:36:50,362 - [ERROR] - azen_bot - error_handler:898 - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback:   File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 3140, in get_updates
+    self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/bot.py", line 299, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+
+2025-04-05 07:36:58,510 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration
+2025-04-05 07:36:58,510 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration
+2025-04-05 07:37:01,212 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-04-05 07:37:01,212 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-04-05 07:37:02,625 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration
+2025-04-05 07:37:02,625 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration
+2025-04-05 07:37:04,567 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: button_click_collaboration_next
+2025-04-05 07:37:04,567 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:button_click_collaboration_next
+2025-04-05 07:41:12,229 - [INFO] - azen_bot - main:71 - Starting bot...
+2025-04-05 07:41:12,517 - [INFO] - azen_bot - main:75 - Bot is running. Press Ctrl-C to stop.
+2025-04-05 07:41:13,143 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-04-05 07:41:13,144 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-04-05 07:41:13,333 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-04-05 07:41:13,333 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
+2025-04-05 07:41:13,515 - [INFO] - azen_bot - log_user_action:130 - User 7475628490 (@AZEN_Entertainment) performed action: start_command
+2025-04-05 07:41:13,515 - [INFO] - azen_bot.user_interactions - log_user_interaction:91 - USER:7475628490 - @AZEN_Entertainment - ACTION:start_command
