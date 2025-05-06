@@ -30,8 +30,7 @@ from keep_alive import keep_alive
 
 def main():
     """Run the bot."""
-    # Start the keep-alive server to ensure the bot stays active
-    keep_alive()
+    # keep_alive()  # غیرفعال برای GitHub Actions، چون ورک‌فلو خودش ربات رو فعال نگه می‌داره
     
     try:
         # Create the Updater and pass it your bot's token
@@ -69,11 +68,13 @@ def main():
         
         # Start the Bot
         logger.info("Starting bot...")
-        updater.start_polling()
-        
-        # Run the bot until you press Ctrl-C
-        logger.info("Bot is running. Press Ctrl-C to stop.")
-        updater.idle()
+        while True:
+            try:
+                updater.start_polling()
+                updater.idle()
+            except Exception as e:
+                logger.error(f"Polling error: {str(e)}")
+                time.sleep(5)  # 5 ثانیه صبر قبل از تلاش دوباره
         
     except Exception as e:
         # ثبت خطا و تلاش برای راه‌اندازی مجدد
